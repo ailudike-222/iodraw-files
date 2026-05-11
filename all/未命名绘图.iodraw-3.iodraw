@@ -159,7 +159,7 @@
         <mxCell id="BJEADY5iCKjd5teyQyTA-46" value="系统参数设置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="1810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BJEADY5iCKjd5teyQyTA-47" value="系统参数设置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJEADY5iCKjd5teyQyTA-47" value="借阅查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="1890" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
