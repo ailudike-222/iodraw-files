@@ -102,8 +102,8 @@
         <mxCell id="BJEADY5iCKjd5teyQyTA-33" value="处理归还" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="1440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BJEADY5iCKjd5teyQyTA-34" value="处理归还" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1510" width="120" height="80" as="geometry" />
+        <mxCell id="BJEADY5iCKjd5teyQyTA-34" value="移除图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
