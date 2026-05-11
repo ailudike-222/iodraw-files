@@ -51,9 +51,6 @@
         <mxCell id="BJEADY5iCKjd5teyQyTA-19" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BJEADY5iCKjd5teyQyTA-20" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, tahoma, arial, &amp;quot;Hiragino Sans GB&amp;quot;, 宋体, sans-serif; white-space: nowrap; background-color: rgb(249, 250, 251);&quot;&gt;查询借阅记录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1040" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
