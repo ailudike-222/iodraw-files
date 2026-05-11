@@ -1,0 +1,37 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="dMpMh1IHa0cGvEj0hlMU">
+    <mxGraphModel dx="837" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZrFY7lmbFXZUGEpBT5ei-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 学号&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 姓名&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 手机号&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 配送地址&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrFY7lmbFXZUGEpBT5ei-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;菜品&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 菜品编号&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 菜品名称&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 单价&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 菜品描述&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="20" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrFY7lmbFXZUGEpBT5ei-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;订单项&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 订单项编号&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 菜品购买数量&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 小计金额&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="25" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrFY7lmbFXZUGEpBT5ei-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;商家&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 商家编号&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 商家名称&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 手商家地址&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 联系电话&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrFY7lmbFXZUGEpBT5ei-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;订单&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 订单编号&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 下单时间&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 总价&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- 订单状态&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrFY7lmbFXZUGEpBT5ei-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZrFY7lmbFXZUGEpBT5ei-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="80" as="sourcePoint" />
+            <mxPoint x="230" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZrFY7lmbFXZUGEpBT5ei-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="79.66" as="sourcePoint" />
+            <mxPoint x="560" y="79.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
