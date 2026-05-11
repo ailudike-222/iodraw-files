@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BJEADY5iCKjd5teyQyTA-28" value="借阅者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1190" width="30" height="60" as="geometry" />
+          <mxGeometry x="670" y="1270" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJEADY5iCKjd5teyQyTA-29" value="图书入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="1080" width="120" height="80" as="geometry" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="BJEADY5iCKjd5teyQyTA-31" value="修改图示信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="1260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJEADY5iCKjd5teyQyTA-32" value="修改图示信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
