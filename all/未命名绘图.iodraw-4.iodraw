@@ -22,9 +22,9 @@
         <mxCell id="xWVf-qqZFo_vAGPpssi0-6" value="：借阅信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="220" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xWVf-qqZFo_vAGPpssi0-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xWVf-qqZFo_vAGPpssi0-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.064;entryY=1.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xWVf-qqZFo_vAGPpssi0-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="310" as="sourcePoint" />
+            <mxPoint x="100" y="560" as="sourcePoint" />
             <mxPoint x="630" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
