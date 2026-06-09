@@ -19,6 +19,9 @@
         <mxCell id="xWVf-qqZFo_vAGPpssi0-5" value="：图书数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="97.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xWVf-qqZFo_vAGPpssi0-6" value="：借阅信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="220" width="97.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
