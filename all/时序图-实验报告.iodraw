@@ -469,6 +469,135 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-1" value="提交归还团胡·" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-536" y="2257" />
+            </Array>
+            <mxPoint x="-710" y="2260" as="sourcePoint" />
+            <mxPoint x="-440" y="2257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-2" value="上传图书编号，用户ID" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-313" y="2309" />
+            </Array>
+            <mxPoint x="-440" y="2309" as="sourcePoint" />
+            <mxPoint x="-199.5" y="2309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-3" value="查询为完结借阅记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-75" y="2361" />
+            </Array>
+            <mxPoint x="-199.67647058823468" y="2361" as="sourcePoint" />
+            <mxPoint x="30.5" y="2361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-4" value="返回借阅时间，到期日期" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-72" y="2413" />
+            </Array>
+            <mxPoint x="30.5" y="2413" as="sourcePoint" />
+            <mxPoint x="-199.67647058823468" y="2413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-5" value="检查是否超期并计算罚金" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-310" y="2465" />
+            </Array>
+            <mxPoint x="-199.5" y="2465" as="sourcePoint" />
+            <mxPoint x="-440" y="2465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-6" value="更新记录状态为已归还" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="2517" />
+            </Array>
+            <mxPoint x="-199.67647058823468" y="2517" as="sourcePoint" />
+            <mxPoint x="240" y="2517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-7" value="修改图书为可借阅" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-75" y="2569" />
+            </Array>
+            <mxPoint x="-199.67647058823468" y="2569" as="sourcePoint" />
+            <mxPoint x="30.5" y="2569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-8" value="返回归还状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-310" y="2621" />
+            </Array>
+            <mxPoint x="-199.5" y="2621" as="sourcePoint" />
+            <mxPoint x="-440" y="2621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-9" value="展示归还成功通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="2673" />
+            </Array>
+            <mxPoint x="-440" y="2673" as="sourcePoint" />
+            <mxPoint x="-709.9995652173913" y="2673" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="-Jiggxn-pwTX0dhueY-Q-15" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710" y="2770" as="sourcePoint" />
+            <mxPoint x="-520" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="-Jiggxn-pwTX0dhueY-Q-16" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="2770" as="sourcePoint" />
+            <mxPoint x="-250" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="-Jiggxn-pwTX0dhueY-Q-17" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="2770" as="sourcePoint" />
+            <mxPoint x="-10" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="-Jiggxn-pwTX0dhueY-Q-18" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="2770" as="sourcePoint" />
+            <mxPoint x="220" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="-Jiggxn-pwTX0dhueY-Q-19" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="2770" as="sourcePoint" />
+            <mxPoint x="430" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-15" value="：用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-16" value="：用户页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-17" value="：图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-18" value=": 图书数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-19" value=": 借阅信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-725" y="2080" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
