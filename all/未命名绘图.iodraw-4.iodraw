@@ -187,7 +187,7 @@
             <mxPoint x="250" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-27" value="更新图书状态为已借出" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Ik_PL03DlWvuiyitIlP8-27" value="修改图书为可借阅" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-65" y="279" />
