@@ -593,8 +593,13 @@
         </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="2600" as="sourcePoint" />
-            <mxPoint x="270" y="2550" as="targetPoint" />
+            <mxPoint x="240" y="2580" as="sourcePoint" />
+            <mxPoint x="-200" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-24" value="回传全部借阅记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Jiggxn-pwTX0dhueY-Q-23">
+          <mxGeometry x="-0.0399" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
