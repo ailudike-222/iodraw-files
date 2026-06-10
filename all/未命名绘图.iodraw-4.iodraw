@@ -79,7 +79,7 @@
         <mxCell id="ediXOfcV6KgkxNccRT-a-14" value="展示借阅完成信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="219.87" y="563" />
+              <mxPoint x="320" y="563" />
             </Array>
             <mxPoint x="307.37" y="562.9999999999998" as="sourcePoint" />
             <mxPoint x="50.00043478260874" y="563" as="targetPoint" />
