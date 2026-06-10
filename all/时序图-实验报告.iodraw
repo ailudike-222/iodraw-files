@@ -496,15 +496,6 @@
             <mxPoint x="30.5" y="2361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Jiggxn-pwTX0dhueY-Q-4" value="返回借阅时间，到期日期" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-72" y="2413" />
-            </Array>
-            <mxPoint x="30.5" y="2413" as="sourcePoint" />
-            <mxPoint x="-199.67647058823468" y="2413" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-5" value="检查是否超期并计算罚金" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -601,7 +592,7 @@
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="2420" as="sourcePoint" />
-            <mxPoint x="80" y="2370" as="targetPoint" />
+            <mxPoint x="-200" y="2420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
