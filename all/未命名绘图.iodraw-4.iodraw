@@ -196,7 +196,7 @@
             <mxPoint x="40.5" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-28" value="返回借阅状态结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Ik_PL03DlWvuiyitIlP8-28" value="返回归还状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-300" y="331" />
@@ -205,7 +205,7 @@
             <mxPoint x="-430" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-29" value="展示借阅完成信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Ik_PL03DlWvuiyitIlP8-29" value="展示借阅完成信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-430" y="383" />
