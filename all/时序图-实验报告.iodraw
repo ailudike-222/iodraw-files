@@ -133,7 +133,7 @@
         <mxCell id="Ik_PL03DlWvuiyitIlP8-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-715" y="-1090" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-21" value="提交归还团胡·" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" edge="1">
+        <mxCell id="Ik_PL03DlWvuiyitIlP8-21" value="提交归还图书" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-526" y="-33" />
