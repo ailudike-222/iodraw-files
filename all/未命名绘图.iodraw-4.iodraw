@@ -169,7 +169,7 @@
             <mxPoint x="-189.67647058823468" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-25" value="校验用户借阅限额与逾期" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Ik_PL03DlWvuiyitIlP8-25" value="检查是否超期并计算罚金" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-300" y="175" />
