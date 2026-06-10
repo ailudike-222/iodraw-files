@@ -515,7 +515,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Jiggxn-pwTX0dhueY-Q-9" value="展示归还成功通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-9" value="展示备份任务完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-440" y="2673" />
