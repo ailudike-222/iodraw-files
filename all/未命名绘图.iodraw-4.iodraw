@@ -178,7 +178,7 @@
             <mxPoint x="-430" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-26" value="新建借阅记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Ik_PL03DlWvuiyitIlP8-26" value="更新记录状态为已归还" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="35" y="227" />
