@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="pGTDaJ5nx15J-f5quEto">
-    <mxGraphModel dx="730" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="504" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="xWVf-qqZFo_vAGPpssi0-3" value="：用户页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xWVf-qqZFo_vAGPpssi0-4" value="：图书1管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xWVf-qqZFo_vAGPpssi0-4" value="：图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="220" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xWVf-qqZFo_vAGPpssi0-5" value="：图书数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="WbWGfwTBaEyKcxl_6CuY-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="440" as="sourcePoint" />
-            <mxPoint x="480" y="370" as="targetPoint" />
+            <mxPoint x="150" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
