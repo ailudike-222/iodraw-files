@@ -307,7 +307,7 @@
               <mxPoint x="-526" y="790" />
             </Array>
             <mxPoint x="-700" y="793" as="sourcePoint" />
-            <mxPoint x="-430" y="790" as="targetPoint" />
+            <mxPoint x="-450" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-lUv6ElBqrijbH2SxdcP-17" value="返回归还状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
@@ -317,6 +317,15 @@
             </Array>
             <mxPoint x="-219.5" y="960" as="sourcePoint" />
             <mxPoint x="-460" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-lUv6ElBqrijbH2SxdcP-18" value="录入新书信息入库" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-276" y="840" />
+            </Array>
+            <mxPoint x="-450" y="843" as="sourcePoint" />
+            <mxPoint x="-200" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
