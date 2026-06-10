@@ -506,12 +506,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-6" value="读取全部借阅台账" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0007" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="25" y="2517" />
             </Array>
             <mxPoint x="-199.67647058823468" y="2517" as="sourcePoint" />
             <mxPoint x="240" y="2517" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-8" value="返回归还状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
