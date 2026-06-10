@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ediXOfcV6KgkxNccRT-a-5" value=": 借阅信息" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="916" y="40" width="150" height="628" as="geometry" />
+        </mxCell>
         <mxCell id="ediXOfcV6KgkxNccRT-a-6" value="发起图书借阅请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -49,13 +52,12 @@
             <mxPoint x="314.32352941176487" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ediXOfcV6KgkxNccRT-a-11" value="新建借阅记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" edge="1">
+        <mxCell id="ediXOfcV6KgkxNccRT-a-11" value="新建借阅记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="ediXOfcV6KgkxNccRT-a-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="785" y="407" />
             </Array>
             <mxPoint x="560.3235294117653" y="407" as="sourcePoint" />
-            <mxPoint x="990.5" y="407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ediXOfcV6KgkxNccRT-a-12" value="更新图书状态为已借出" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" edge="1">
@@ -111,24 +113,6 @@
             <mxPoint x="560" y="660" as="sourcePoint" />
             <mxPoint x="750" y="170" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-12" value="：图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="Ik_PL03DlWvuiyitIlP8-12" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="660" as="sourcePoint" />
-            <mxPoint x="980" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="Ik_PL03DlWvuiyitIlP8-15" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="660" as="sourcePoint" />
-            <mxPoint x="1180" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ik_PL03DlWvuiyitIlP8-15" value="：图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
