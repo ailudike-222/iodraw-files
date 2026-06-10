@@ -505,7 +505,7 @@
             <mxPoint x="-440" y="2465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Jiggxn-pwTX0dhueY-Q-6" value="更新记录状态为已归还" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-6" value="读取全部借阅台账" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="25" y="2517" />
@@ -597,7 +597,7 @@
         </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-22" value="回传图书完整数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Jiggxn-pwTX0dhueY-Q-21">
           <mxGeometry x="0.2651" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="35" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
