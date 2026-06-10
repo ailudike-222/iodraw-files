@@ -487,7 +487,7 @@
             <mxPoint x="-199.5" y="2309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Jiggxn-pwTX0dhueY-Q-3" value="查询为完结借阅记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="-Jiggxn-pwTX0dhueY-Q-3" value="读取全部图书数据表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-75" y="2361" />
