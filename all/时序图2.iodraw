@@ -124,7 +124,7 @@
             <mxPoint x="330" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WbWGfwTBaEyKcxl_6CuY-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WbWGfwTBaEyKcxl_6CuY-21">
+        <mxCell id="WbWGfwTBaEyKcxl_6CuY-24" value="7.返回借阅状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WbWGfwTBaEyKcxl_6CuY-21">
           <mxGeometry x="0.0351" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
