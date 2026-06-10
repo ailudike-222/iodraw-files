@@ -515,15 +515,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Jiggxn-pwTX0dhueY-Q-8" value="返回归还状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-310" y="2621" />
-            </Array>
-            <mxPoint x="-199.5" y="2621" as="sourcePoint" />
-            <mxPoint x="-440" y="2621" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-9" value="展示归还成功通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -589,7 +580,7 @@
         </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-22" value="回传图书完整数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Jiggxn-pwTX0dhueY-Q-21">
           <mxGeometry x="0.2651" relative="1" as="geometry">
-            <mxPoint x="35" as="offset" />
+            <mxPoint x="35" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Jiggxn-pwTX0dhueY-Q-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
