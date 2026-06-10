@@ -1,12 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kSPLrcJZpktrAly2s1cR">
-    <mxGraphModel dx="1925" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ediXOfcV6KgkxNccRT-a-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="35" height="628" as="geometry" />
-        </mxCell>
         <mxCell id="ediXOfcV6KgkxNccRT-a-2" value=": 用户页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="150" height="628" as="geometry" />
         </mxCell>
@@ -19,11 +16,12 @@
         <mxCell id="ediXOfcV6KgkxNccRT-a-5" value=": 借阅信息" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="916" y="40" width="150" height="628" as="geometry" />
         </mxCell>
-        <mxCell id="ediXOfcV6KgkxNccRT-a-6" value="发起图书借阅请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ediXOfcV6KgkxNccRT-a-1" target="ediXOfcV6KgkxNccRT-a-2" edge="1">
+        <mxCell id="ediXOfcV6KgkxNccRT-a-6" value="发起图书借阅请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" target="ediXOfcV6KgkxNccRT-a-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="224" y="147" />
             </Array>
+            <mxPoint x="57.130434782608745" y="147" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ediXOfcV6KgkxNccRT-a-7" value="读取借阅表单信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ediXOfcV6KgkxNccRT-a-2" target="ediXOfcV6KgkxNccRT-a-3" edge="1">
@@ -75,11 +73,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ediXOfcV6KgkxNccRT-a-14" value="展示借阅完成信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ediXOfcV6KgkxNccRT-a-2" target="ediXOfcV6KgkxNccRT-a-1" edge="1">
+        <mxCell id="ediXOfcV6KgkxNccRT-a-14" value="展示借阅完成信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ediXOfcV6KgkxNccRT-a-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="227" y="563" />
             </Array>
+            <mxPoint x="57.130434782608745" y="563" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
