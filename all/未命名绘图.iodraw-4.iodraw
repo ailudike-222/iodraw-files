@@ -1,0 +1,71 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="1WwvX0E9uyXk4ZhljuB3">
+    <mxGraphModel dx="2648" dy="2862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="95DfeuYileGrPQgmg8Ad-1" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="35" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-2" value=": 管理员页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="250" y="20" width="150" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-3" value=": 图书管理系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="450" y="20" width="150" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-4" value=": 图书数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="650" y="20" width="150" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-5" value="录入新书信息提交入库" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="95DfeuYileGrPQgmg8Ad-1" target="95DfeuYileGrPQgmg8Ad-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-6" value="传递图书全部资料" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="95DfeuYileGrPQgmg8Ad-2" target="95DfeuYileGrPQgmg8Ad-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-7" value="查重检索 ISBN" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="95DfeuYileGrPQgmg8Ad-3" target="95DfeuYileGrPQgmg8Ad-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-8" value="返回查重结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="95DfeuYileGrPQgmg8Ad-4" target="95DfeuYileGrPQgmg8Ad-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="637" y="289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-9" value="插入新书数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="95DfeuYileGrPQgmg8Ad-3" target="95DfeuYileGrPQgmg8Ad-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-10" value="返回入库成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="95DfeuYileGrPQgmg8Ad-3" target="95DfeuYileGrPQgmg8Ad-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="437" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95DfeuYileGrPQgmg8Ad-11" value="提示入库完毕" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="95DfeuYileGrPQgmg8Ad-2" target="95DfeuYileGrPQgmg8Ad-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="222" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
